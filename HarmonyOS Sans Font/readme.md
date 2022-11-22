@@ -1,4 +1,4 @@
-# HarmonyOS Sans Font （转载）
+# HarmonyOS Sans Font （转载自[MCBBS](https://www.mcbbs.net/thread-1260266-1-1.html)）
 ## 介绍
 让MC显示鸿蒙字体。<br>
 **不要在意`Black`打成了`Blcak`**
